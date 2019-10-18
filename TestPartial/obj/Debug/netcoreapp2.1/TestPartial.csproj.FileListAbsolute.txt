@@ -1,0 +1,11 @@
+E:\c#Project\TestPartial\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.deps.json
+E:\c#Project\TestPartial\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.runtimeconfig.json
+E:\c#Project\TestPartial\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.runtimeconfig.dev.json
+E:\c#Project\TestPartial\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.dll
+E:\c#Project\TestPartial\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.pdb
+E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.csprojAssemblyReference.cache
+E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.csproj.CoreCompileInputs.cache
+E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.AssemblyInfoInputs.cache
+E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.AssemblyInfo.cs
+E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.dll
+E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.pdb
