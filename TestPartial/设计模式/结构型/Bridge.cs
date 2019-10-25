@@ -11,7 +11,7 @@ namespace TestPartial.设计模式.结构型
     /// </summary>
     class BridgeTest
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Abstraction rf = new RefineAbstraction(new ConCreatorImplementorA());
             rf.Operation();
