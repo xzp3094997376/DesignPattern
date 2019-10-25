@@ -1,10 +1,11 @@
 ﻿using System;
 
+//建造者模式
 namespace TestPartial.设计模式
 {
     class BuilderTest
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Builder bd = new ConcreteBuilder();
             Director dc = new Director(bd);
@@ -75,3 +76,7 @@ namespace TestPartial.设计模式
         }
     }
 }
+///具体产品
+///抽象建造者
+///具体构建者
+///指挥者
