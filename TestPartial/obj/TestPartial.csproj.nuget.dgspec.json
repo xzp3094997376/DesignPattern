@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\C#Project\\DesignPattern\\TestPartial\\TestPartial.csproj": {}
+  },
+  "projects": {
+    "G:\\C#Project\\DesignPattern\\TestPartial\\TestPartial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\C#Project\\DesignPattern\\TestPartial\\TestPartial.csproj",
+        "projectName": "TestPartial",
+        "projectPath": "G:\\C#Project\\DesignPattern\\TestPartial\\TestPartial.csproj",
+        "packagesPath": "C:\\Users\\xzp\\.nuget\\packages\\",
+        "outputPath": "G:\\C#Project\\DesignPattern\\TestPartial\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\xzp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -9,3 +9,14 @@ E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.Assembl
 E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.AssemblyInfo.cs
 E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.dll
 E:\c#Project\TestPartial\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.pdb
+G:\C#Project\DesignPattern\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.csprojAssemblyReference.cache
+G:\C#Project\DesignPattern\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.csproj.CoreCompileInputs.cache
+G:\C#Project\DesignPattern\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.AssemblyInfoInputs.cache
+G:\C#Project\DesignPattern\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.AssemblyInfo.cs
+G:\C#Project\DesignPattern\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.dll
+G:\C#Project\DesignPattern\TestPartial\obj\Debug\netcoreapp2.1\TestPartial.pdb
+G:\C#Project\DesignPattern\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.deps.json
+G:\C#Project\DesignPattern\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.runtimeconfig.json
+G:\C#Project\DesignPattern\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.runtimeconfig.dev.json
+G:\C#Project\DesignPattern\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.dll
+G:\C#Project\DesignPattern\TestPartial\bin\Debug\netcoreapp2.1\TestPartial.pdb
