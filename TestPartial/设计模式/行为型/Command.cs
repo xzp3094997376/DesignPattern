@@ -7,10 +7,11 @@ namespace TestPartial.设计模式.行为型
     /// <summary>
     /// 命令模式
     ///cmd层将命令发送和执行者解耦
+    ///command层作为中介将调用者和处理者分开
     /// </summary>
     class CommandTest   
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("main");
             ICommand cmd=new ConcreteCmd();
