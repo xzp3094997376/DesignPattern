@@ -6,7 +6,7 @@ namespace TestPartial.设计模式.行为型
 {
     class ChainRespTest
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string msg = "A";
             Console.WriteLine("Main--------"+msg);
