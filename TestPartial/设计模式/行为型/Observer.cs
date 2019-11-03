@@ -11,7 +11,7 @@ namespace TestPartial.设计模式.行为型
     /// </summary>
     class ObserverTest
     {
-        static void Main(String[] args)
+        static void Main1(String[] args)
         {
 
             Subject sb= new ConcreteSubject();
